@@ -1,2 +1,2 @@
-print "Hello,world!\n"
-print "Hello,github\n"
+print "Hello,world!"
+print "Hello,git"
